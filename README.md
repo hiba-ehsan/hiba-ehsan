@@ -1,4 +1,4 @@
-# hi, i’m hiba: figuring out data, fluent in story.
+# hi, i’m hiba: figuring out data, fluent in storytelling.
 
 📍 stats & data science undergrad  
 📬 wrote a newsletter on identity, detours & careers  
