@@ -1,7 +1,7 @@
 # hi, i’m hiba: figuring out data, fluent in storytelling.
 
 📍 stats & data science undergrad  
-📬 wrote a newsletter on identity, detours & careers  
+📬 wrote a newsletter on identity, detours, & careers  
 📊 making messy data make sense
 
 🛠️ built:
