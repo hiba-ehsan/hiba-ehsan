@@ -8,7 +8,7 @@
 ### What I've Built
 - **Interactive dashboards** for edtech in underserved markets and dynamic pricing (Streamlit)  
 - **UAE real estate pricing models** with regression and geospatial visualization (Folium)  
-- **Progress Rundown** — launched and scaled a newsletter analyzing Gen Z career opportunities across 30+ platforms, achieving 36.7% open rate (+10% above similar newsletters) and 29.2% CTR through A/B testing and data-driven content optimization  
+- **Progress Rundown**: launched and scaled a newsletter analyzing Gen Z career opportunities across 30+ platforms, achieving 36.7% open rate (+10% above similar newsletters) and 29.2% CTR through A/B testing and data-driven content optimization  
 - Featured on OpenLetters and KyteSpace  
 
 ### Skills & Tools
