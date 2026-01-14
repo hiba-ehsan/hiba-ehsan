@@ -27,11 +27,5 @@ Check out my pinned repositories below!
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hiba-ehsan&show_icons=true&theme=radical&hide_border=true" alt="Hiba's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiba-ehsan&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
 Thanks for stopping by! 🚀  
 Open to collaborations, internships, and data storytelling adventures.
