@@ -1,15 +1,37 @@
-# hi, i’m hiba: figuring out data, fluent in storytelling.
+# Hi, I'm Hiba! 👋
 
-📍 stats & data science undergrad  
-📬 wrote a newsletter on identity, detours, & careers  
-📊 making messy data make sense
+**figuring out data, fluent in storytelling**  
+📍 Undergraduate in Statistics & Data Science (COMSATS University, Expected Feb 2028)  
+📊 Turning messy data into clear, actionable insights  
+🛠️ Building dashboards, predictive models, and growth experiments  
 
-🛠️ built:
-- dashboards for edtech in underserved markets  
-- pricing models for UAE real estate  
-- community-driven, clarity-first projects
+### What I've Built
+- **Interactive dashboards** for edtech in underserved markets and dynamic pricing (Streamlit)  
+- **UAE real estate pricing models** with regression and geospatial visualization (Folium)  
+- **Progress Rundown** — launched and scaled a newsletter analyzing Gen Z career opportunities across 30+ platforms, achieving 36.7% open rate (+10% above similar newsletters) and 29.2% CTR through A/B testing and data-driven content optimization  
+- Featured on OpenLetters and KyteSpace  
 
-🔧 tools: `python`, `power bi`, `sap cloud`, `folium`
+### Skills & Tools
+- **Languages**: Python, R, SQL  
+- **Analytics & Modeling**: Hypothesis Testing, A/B Testing, Statistical Inference, Predictive Modeling, Data Wrangling  
+- **Tools**: pandas, NumPy, scikit-learn, Excel, SAP Analytics Cloud, PowerBI, SPSS  
+- **Workflow**: Data Cleaning, EDA, Reporting, Dashboard Development  
 
-🧠 learning: `AWS Lex`, R for inference  
-📫 [newsletter](https://progressrundown.substack.com) | [linkedin](https://linkedin.com/in/hibaehsan)
+### Featured Projects
+Check out my pinned repositories below!
+
+### Let's Connect
+- 📬 Newsletter: [Progress Rundown](https://progressrundown.beehiiv.com)  
+- 🔗 LinkedIn: [linkedin.com/in/hibaehsan](https://www.linkedin.com/in/hibaehsan)  
+- ✉️ Email: hibae.acm.org  
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hiba-ehsan&show_icons=true&theme=radical&hide_border=true" alt="Hiba's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiba-ehsan&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+Thanks for stopping by! 🚀  
+Open to collaborations, internships, and data storytelling adventures.
