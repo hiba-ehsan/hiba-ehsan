@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I'm Hiba! 👋<br><br>**figuring out data, fluent in storytelling**  <br>📍 Stats & Data Science Undergrad (Expected Feb 2028) <br>📊 Ex-Product & Growth Analytics Intern @ Thingsty | Ex-Data Analytics intern @PostPair <br><br>Founder of [Progress Rundown](https://progressrundown.beehiiv.com/)<br>Featured on OpenLetters and KyteSpace  
 
 
